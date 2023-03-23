@@ -107,7 +107,7 @@
     max-width: 1000px;
   
   }
-  .pinyin:hover, .pinyin:active{
+  .pinyin:hover {
     background-color:
   #FDF8F3;
   }
@@ -135,8 +135,10 @@
       margin-left: 0px;
       margin-top: 320px;
     }
+      .pinyin:active {
+    background-color:#FDF8F3;
 }
-  }
+
   
   
   /*for phone*/
@@ -151,9 +153,8 @@
     max-width: 300px;
     margin: 0 auto;
   }
-   .pinyin {
-    background-color:
-  #FDF8F3;
+   .pinyin:active {
+    background-color:#FDF8F3;
   }   
   }
   
