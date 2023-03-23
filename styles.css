@@ -107,13 +107,10 @@
     max-width: 770px;
   
   }
-  .pinyin:hover {
+  .pinyin:hover, .pinyin:active{
     background-color:
   #FDF8F3;
   }
-  .pinyin:active {
-      background-color:#FDF8F3;
-}
   
   /*for small screen size*/
   @media only screen and (max-width: 815px) {
