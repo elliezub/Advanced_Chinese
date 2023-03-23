@@ -111,6 +111,11 @@
   background-color:#FDF8F3;
   color:#5B5D5F;
   }
+
+   .pinyin:active {
+    background-color:#FDF8F3;
+    color:#5B5D5F;
+  }   
   
   /*for small screen size*/
   @media only screen and (max-width: 815px) {
@@ -135,9 +140,6 @@
       margin-left: 0px;
       margin-top: 320px;
     }
-      .pinyin:active {
-    background-color:#FDF8F3;
-    color:#5B5D5F;
 }
 
   
@@ -154,9 +156,5 @@
     max-width: 300px;
     margin: 0 auto;
   }
-   .pinyin:active {
-    background-color:#FDF8F3;
-    color:#5B5D5F;
-  }   
   }
   
