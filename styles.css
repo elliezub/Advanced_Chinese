@@ -108,8 +108,8 @@
   
   }
   .pinyin:hover {
-    background-color:
-  #FDF8F3;
+  background-color:#FDF8F3;
+  color:#5B5D5F;
   }
   
   /*for small screen size*/
@@ -137,6 +137,7 @@
     }
       .pinyin:active {
     background-color:#FDF8F3;
+    color:#5B5D5F;
 }
 
   
@@ -155,6 +156,7 @@
   }
    .pinyin:active {
     background-color:#FDF8F3;
+    color:#5B5D5F;
   }   
   }
   
