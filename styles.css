@@ -154,7 +154,7 @@
   }
  
 @media (max-width: 767px) {
-  .pinyin:active {
+  .pinyin {
     background-color:#FDF8F3;
     color:#5B5D5F;
   } 
