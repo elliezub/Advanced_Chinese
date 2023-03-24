@@ -8,6 +8,7 @@ Here are some screenshots:
 
 
 🖱️ When you hover over the grey areas you are able to see the pinyin! 🖱️
+
 Personally when I am learning chinese I prefer that the pinyin is hidden until I choose to see it. 
 
 
