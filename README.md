@@ -7,7 +7,8 @@ Here are some screenshots:
 ![elliezub github io_Advanced_Chinesefirstimage](https://user-images.githubusercontent.com/112726692/227586505-34131174-3372-4d13-af32-beb8e02f4076.png)
 
 
-🖱️ When you hover over the grey areas you are able to see the pinyin! Personally when I am learning chinese I prefer that the pinyin is hidden until I choose to see it. 🖱️
+🖱️ When you hover over the grey areas you are able to see the pinyin! 🖱️
+Personally when I am learning chinese I prefer that the pinyin is hidden until I choose to see it. 
 
 
 ![advancedchinesehover](https://user-images.githubusercontent.com/112726692/227587183-373b9e21-29c1-4260-9a29-b1b998529859.png)
